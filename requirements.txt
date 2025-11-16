@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn>=1.1
+optuna
+xgboost
+lightgbm
+catboost
+shap
+mlflow
+fastapi
+uvicorn
+joblib
+pytest
+black
+flake8
