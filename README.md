@@ -20,7 +20,7 @@ cd AutoML-Pipeline
 # create venv and install
 conda create -p venv python==3.10 -y
 conda activate
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 # run demo (short)
 python run_demo.py
