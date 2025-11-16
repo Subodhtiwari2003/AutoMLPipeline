@@ -18,8 +18,8 @@ git clone https://github.com/Subodhtiwari2003/AutoML-Pipeline.git
 cd AutoML-Pipeline
 
 # create venv and install
-python -m venv venv
-source venv/bin/activate
+conda create -p venv python==3.10 -y
+conda activate
 pip install -r requirements.txt
 
 # run demo (short)
