@@ -45,4 +45,3 @@ docker run -p 8000:8000 automl-pipeline:latest
 A GitHub Actions workflow runs linting and unit tests on push (Python 3.10).
 
 ## License
-MIT
